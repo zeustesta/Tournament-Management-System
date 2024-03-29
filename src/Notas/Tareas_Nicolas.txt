@@ -1,0 +1,46 @@
+-------------------------------------------------------------------- HACER --------------------------------------------------------------------
+
+-------------------------------------------------------------------- HECHO --------------------------------------------------------------------
+CREAR TORNEO
+    -> FUTBOL: PRIMEROS 16 Y ELECCION
+    -> TENNIS: PRIMEROS 16 Y ELECCION
+    -> PING PONG: PRIMEROS 16 Y ELECCION
+
+ELIMINAR
+    -> ARBITRO
+    -> EQUIPO
+    -> TORNEO
+
+NUEVO METODO EXPORTAR
+    -> INGRESAR DONDE
+
+-- ORDENAR CODIGO
+
+-- AHORRAR VARIABLES EN PARTIDO DE PING PONG
+
+-- ENCONTRAR GENERACIDAD
+
+-- MENU EQUIPOS -> VER EQUIPOS -> INGRESAR NRO DE EQUIPO PARA VER LOS DETALLES DE EL EQUIPO
+-- MENU TORNEOS -> VER TORNEOS -> INGRESAR NRO DE TORNEO PARA VER LOS DETALLES DE EL TORNEO
+
+-- TORNEOS -> CAMBIAR ACCESOS DEPENDIENDO DEL METODO
+
+-------------------------------------------------------------------- QUE QUEREMOS QUE HAGA EL PROGRAMA ---------------------------------------------------
+ARBITROS:
+    CREAR ARBITROS
+    VER ARBITROS
+    ELIMINAR ARBITRO
+
+EQUIPOS
+    CREAR EQUIPOS
+    VER EQUIPOS
+    ELIMINAR
+    EXPORTAR
+
+TORNEOS
+    CREAR TORNEOS
+    VER TODOS
+    ELIMINAR
+    EXPORTAR
+
+-------------------------------------------------------------------- QUE QUEREMOS QUE HAGA EL PROGRAMA ---------------------------------------------------
